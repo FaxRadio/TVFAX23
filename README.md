@@ -1,4 +1,3 @@
-# TVFAX23
 #EXTM3U
 
 #EXTM3U url-tvg=" http://grade-de-HRCERTA.xml "
